@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11170930608",
+    "firebase_url": "https://project328-f3a59-default-rtdb.firebaseio.com",
+    "project_id": "project328-f3a59",
+    "storage_bucket": "project328-f3a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11170930608:android:f60fee0f0c9621c9f8c075",
+        "android_client_info": {
+          "package_name": "com.example.se328projectalalem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11170930608-s1ub3bpsaa1g9uvu3c12dbb9v6qsjp1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRgdQ7sozAE2aBl4EbnE1aZ88VNthkm7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11170930608-s1ub3bpsaa1g9uvu3c12dbb9v6qsjp1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

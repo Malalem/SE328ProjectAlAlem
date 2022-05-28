@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="firebaseImg" type="id" />
+    <item name="inpFirefname" type="id" />
+    <item name="inpFirelname" type="id" />
+    <item name="inpFireemail" type="id" />
+    <item name="inpFiredate" type="id" />
+    <item name="inpFireid" type="id" />
+    <item name="inpFireNid" type="id" />
+    <item name="inpFiregender" type="id" />
+    <item name="insertFire" type="id" />
+    <item name="deleteFire" type="id" />
+    <item name="searchFire" type="id" />
+    <item name="updateFire" type="id" />
+</resources>
